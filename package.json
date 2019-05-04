@@ -1,0 +1,32 @@
+{
+	"name": "functionator",
+	"version": "1.0.0",
+	"description": "Uncallable statements made callable",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kenmueller/functionator.git"
+	},
+	"keywords": [
+		"functionator",
+		"function",
+		"identity",
+		"identity-function",
+		"id",
+		"javascript",
+		"call",
+		"callable",
+		"uncallable",
+		"statement",
+		"statements"
+	],
+	"author": "Ken Mueller",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kenmueller/functionator/issues"
+	},
+	"homepage": "https://github.com/kenmueller/functionator#readme"
+}
