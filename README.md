@@ -23,7 +23,7 @@ document.querySelector('button').addEventListener('click', f(alert('hello')))
 ## Source code
 
 ```javascript
-export default f => f
+module.exports = f => f
 ```
 
 **Yep, that's all!**
