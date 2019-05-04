@@ -1,6 +1,6 @@
 {
 	"name": "functionator",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Uncallable statements made callable",
 	"main": "index.js",
 	"scripts": {},

@@ -20,6 +20,8 @@ const f = require('functionator')
 document.querySelector('button').addEventListener('click', f(alert('hello')))
 ```
 
+**Just wrap your statement with `f(...)`**
+
 ## Source code
 
 ```javascript
